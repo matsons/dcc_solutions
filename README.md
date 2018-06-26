@@ -1,4 +1,4 @@
-# dcc_solutions
+# dcp_solutions
 repo to store solutions to problems distributed by [Daily Coding Problem](dailycodingproblem.com "Daily Coding Problem")
 
 I'm not sure if all recipients of these problems receive the same problems in order or on the same day. Without this information, I've structured each solution set into folders ordered based on the order I've received them, starting with Problem1.
